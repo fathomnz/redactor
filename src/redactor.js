@@ -2538,7 +2538,7 @@ if (typeof CodeMirror === 'undefined') {
       duplicate: 'Duplicate',
       deleteItem: 'Delete',
       table: 'Table',
-      embed: 'Embed',
+      embed: 'Video',
       quote: 'Quote',
       layout: 'Layout',
       wrapper: 'Wrapper',
