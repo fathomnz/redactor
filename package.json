@@ -1,6 +1,6 @@
 {
-  "name": "@fathomed.custom-editor",
-  "version": "0.0.0",
+  "name": "@fathomed/custom_editor",
+  "version": "1.0.0",
   "description": "Editor JS",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "Commercial",
