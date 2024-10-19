@@ -26,3 +26,6 @@ typings/
 
 # Production files
 dist
+
+# Original files
+original
