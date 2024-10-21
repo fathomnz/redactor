@@ -4,10 +4,11 @@ import { join, sep } from 'path';
 
 // Config output
 const BUILD_DIRECTORY = 'dist';
+// eslint-disable-next-line no-undef
 const PRODUCTION = process.env.NODE_ENV === 'production';
 
 // Config entrypoint files
-const ENTRY_POINTS = ['src/index.ts', 'src/redactor_dp.css', 'src/redactor.js'];
+const ENTRY_POINTS = ['src/index.ts', 'src/redactor_dp.css', 'src/redactor.js', 'src/ai.js'];
 
 // Config dev serving
 const LIVE_RELOAD = !PRODUCTION;
