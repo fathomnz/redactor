@@ -1,5 +1,11 @@
 # @fathomed.custom-editor
 
+## 1.0.4
+
+### Patch Changes
+
+- ca61525: Add ai.js file to NPS js
+
 ## 1.0.3
 
 ### Patch Changes
