@@ -1,5 +1,11 @@
 # @fathomed.custom-editor
 
+## 1.0.6
+
+### Patch Changes
+
+- d0e1f54: update toolbar-bottom border width
+
 ## 1.0.5
 
 ### Patch Changes
