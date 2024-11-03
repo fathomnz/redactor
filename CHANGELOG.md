@@ -1,5 +1,11 @@
 # @fathomed.custom-editor
 
+## 1.0.5
+
+### Patch Changes
+
+- 2db8c5f: color change on toolbar botton border
+
 ## 1.0.4
 
 ### Patch Changes
