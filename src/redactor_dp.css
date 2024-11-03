@@ -657,7 +657,7 @@
 }
 
 .rx-sticky-on {
-  border-bottom: 1px solid var(--rx-border-dark-minimal);
+  border-bottom: 1px solid var(--neutral-grey);
 }
 
 .rx-raised {
