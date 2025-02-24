@@ -1,5 +1,11 @@
 # @fathomed.custom-editor
 
+## 1.1.0
+
+### Minor Changes
+
+- 896de9d: Adding min.css files plus a file for NZ Marine Job to jsdeliver
+
 ## 1.0.6
 
 ### Patch Changes
