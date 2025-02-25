@@ -930,7 +930,7 @@
 .rx-context .rx-button:hover,
 .rx-context .rx-button.toggled,
 .rx-context .rx-button.active {
-  background: var(--rx-bg-white-medium);
+  background: #c34d27;
 }
 .rx-context .rx-button:hover .rx-button-icon svg,
 .rx-context .rx-button.toggled .rx-button-icon svg,
