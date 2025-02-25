@@ -979,17 +979,17 @@
   text-decoration: none;
 }
 .rx-button:hover {
-  background: var(--orange);
+  background: #c34d27;
 }
 
 .rx-button.toggled {
-  background: var(--orange);
+  background: #c34d27;
 }
 .rx-button.toggled .rx-button-icon svg {
   fill: var(--white-smoke);
 }
 .rx-button.active {
-  background: var(--orange);
+  background: #c34d27;
 }
 .rx-button.disable {
   cursor: default;
