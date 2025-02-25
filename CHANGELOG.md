@@ -1,5 +1,11 @@
 # @fathomed.custom-editor
 
+## 1.1.3
+
+### Patch Changes
+
+- c179822: active color change on buttons
+
 ## 1.1.1
 
 ### Patch Changes
