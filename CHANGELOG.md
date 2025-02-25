@@ -1,5 +1,11 @@
 # @fathomed.custom-editor
 
+## 1.1.1
+
+### Patch Changes
+
+- 10dcd81: Update css for NZMJ
+
 ## 1.1.0
 
 ### Minor Changes
